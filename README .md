@@ -35,6 +35,25 @@
 
 
 **Routing**
+-Route 53
+    - DNS
+    -TCP&UDP
+    -VETH
+    -TUNNELS 
+        - TAP
+        - AVS
+        - VPP( Vector Packet Processing)
+
+## Storage
+   **CEPH**
+   **RAID**
+   **DATA CENTRE**(Racks, Server,Switches)
+         - Hyperscaling
+        - HCI
+        - PRIVATE
+        - PUBLIC
+           - YOTTA 
+   
 
   
   
