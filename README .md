@@ -31,7 +31,7 @@
 
 
   ** Reverse Proxy**
-  a type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server
+  - a type of proxy server that typically sits behind the firewall in a private network and directs client requests to the appropriate backend server
 
   **Network Address Translation**
 
